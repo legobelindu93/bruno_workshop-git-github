@@ -11,19 +11,27 @@ I am interested in programming and learning new technologies. This is my first G
 
 ## Skills I'm Learning
 
-- Git & GitHub
+7- Git & GitHub
 - Version control best practices
 - Professional commit conventions
-- Collaborative development
+7- Collaborative development
 
 ## Goals
 
-- [ ] Master Git basics
+-7 [ ] Master Git basics
 - [ ] Contribute to open source projects
 - [ ] Build a strong GitHub profile
-- [ ] Collaborate effectively with other developers
+-7 [ ] Collaborate effectively with other developers
 
 ---
 
 *This profile was created as part of the Git Basics Workshop.*
 
+
+## Technical Skills
+
+- **Languages:** Python, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** Version control, Clean code
+
+fqf
